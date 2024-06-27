@@ -1,0 +1,11 @@
+D:\1Student_Doc\N2-HK2\PBL3_20_5\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\1Student_Doc\N2-HK2\PBL3_20_5\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\1Student_Doc\N2-HK2\PBL3_20_5\BLL\bin\Debug\BLL.dll
+D:\1Student_Doc\N2-HK2\PBL3_20_5\BLL\bin\Debug\BLL.pdb
+D:\1Student_Doc\N2-HK2\PBL3_20_5\BLL\bin\Debug\DAL.dll
+D:\1Student_Doc\N2-HK2\PBL3_20_5\BLL\bin\Debug\DTO.dll
+D:\1Student_Doc\N2-HK2\PBL3_20_5\BLL\bin\Debug\DAL.pdb
+D:\1Student_Doc\N2-HK2\PBL3_20_5\BLL\bin\Debug\DTO.pdb
+D:\1Student_Doc\N2-HK2\PBL3_20_5\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\1Student_Doc\N2-HK2\PBL3_20_5\BLL\obj\Debug\BLL.dll
+D:\1Student_Doc\N2-HK2\PBL3_20_5\BLL\obj\Debug\BLL.pdb

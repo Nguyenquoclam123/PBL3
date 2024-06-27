@@ -1,0 +1,6 @@
+D:\1Student_Doc\N2-HK2\PBL3_20_5\DTO\bin\Debug\DTO.dll
+D:\1Student_Doc\N2-HK2\PBL3_20_5\DTO\bin\Debug\DTO.pdb
+D:\1Student_Doc\N2-HK2\PBL3_20_5\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\1Student_Doc\N2-HK2\PBL3_20_5\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\1Student_Doc\N2-HK2\PBL3_20_5\DTO\obj\Debug\DTO.dll
+D:\1Student_Doc\N2-HK2\PBL3_20_5\DTO\obj\Debug\DTO.pdb
